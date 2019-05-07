@@ -14,13 +14,13 @@ const ConfirmationModal = (props) => (
       className="button button--confirmation button--secondary"
       onClick={props.closeModal}
     >
-      Cancel
+      No
     </button>
     <button
       className="button button--confirmation"
       onClick={props.onRemove}
     >
-      OK
+      Yes
     </button>
   </Modal>
 )
