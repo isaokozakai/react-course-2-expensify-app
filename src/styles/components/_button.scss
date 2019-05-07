@@ -16,4 +16,9 @@
 
 .button--secondary {
   background: #888;
+  margin-bottom: $m-size; 
+}
+
+.button--confirmation {
+  margin: $xs-size;
 }
