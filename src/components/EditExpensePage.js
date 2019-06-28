@@ -43,7 +43,7 @@ export class EditExpensePage extends React.Component {
           />
           <button className="button button--secondary" onClick={this.openModal}>Remove Expense</button>
         </div>
-      <ConfirmationModal modalIsOpen={this.state.modalIsOpen} closeModal={this.closeModal} onRemove={this.onRemove} />
+        <ConfirmationModal modalIsOpen={this.state.modalIsOpen} closeModal={this.closeModal} onRemove={this.onRemove} />
       </div>
     );
   };
