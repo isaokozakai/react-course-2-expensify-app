@@ -1,7 +1,16 @@
-# Git Commands
+# Expencsify App
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add -Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+This is a web application to track your expenses.
+
+## Purpose
+To help me track my expenses
+
+## Features
+
+## Data Structure
+ 
+## Technologies
+- React
+- Redux
+- Express
+- Firebase
